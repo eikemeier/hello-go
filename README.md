@@ -1,6 +1,7 @@
 # Snappy Hello World
 
-Demonstration project for bazelbuild/rules_go issue bazelbuild/rules_go#2144.
+Verification that https://github.com/bazelbuild/rules_go/pull/2147 fixes
+https://github.com/bazelbuild/rules_go/issues/2144.
 
 Run
 
